@@ -96,8 +96,11 @@ Currently, I am actively seeking **SDE opportunities** where I can contribute to
 ## 🎯 Current Focus
 
 ✅ **System Design**: Designing scalable, fault-tolerant distributed systems
+
 ✅ **Performance Optimization**: Improving application throughput and reducing latency
+
 ✅ **Cloud Architecture**: Building cloud-native applications with modern DevOps practices
+
 ✅ **Open Source**: Contributing to projects that solve real-world engineering challenges
 
 ---
