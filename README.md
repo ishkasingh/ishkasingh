@@ -1,70 +1,74 @@
 # Hi, I'm Ishka Singh 👋
 
-🚀 **Final-Year Computer Science Student | Aspiring Software Development Engineer (SDE)**  
-Specializing in **Backend Systems, Distributed Architecture, and Scalable Applications**
----
-
-## 🛠️ About Me
-
-I’m a **final-year B.Tech CSE student at LNCT Bhopal (2022-2026)** with a strong foundation in **Java, backend development, and system design**.
-
-I specialize in **building scalable, production-ready backend systems** using **Java, Spring Boot, and distributed architectures** to solve real-world business problems efficiently and reliably.
-
-My interests lie in **microservices design, real-time data processing, and clean architecture**, ensuring systems are robust, maintainable, and ready for scale.
-
-Currently, I am actively seeking **SDE opportunities** where I can contribute to **designing and building scalable systems while continuing to grow as an engineer.**
-
+**Software Development Engineer** | Backend Systems & Java Specialist  
+🎓 Final-Year Computer Science Student | Specializing in Distributed Architecture & Scalable Applications
 
 ---
-## 💻 Tech Stack
 
-- **Languages:** Java (SE, EE), C++, JavaScript, SQL  
-- **Frameworks:** Spring Boot, Hibernate, React  
-- **Technologies:** Kafka, Redis, WebSockets, Docker  
-- **Architecture:** REST APIs, Microservices, Event-Driven Systems  
-- **Databases:** MySQL, Oracle, MongoDB  
-- **Tools:** Git, GitHub Actions, Postman, Swagger, Maven
+## 🚀 About Me
+
+Final-year B.Tech CSE student at LNCT Bhopal (2022-2026) with proven experience in building production-ready backend systems. Specialized in Java, Spring Boot, and distributed architectures with hands-on experience in microservices, real-time processing, and system design.
+
+Currently seeking **Software Development Engineer opportunities** where I can contribute to designing and implementing scalable systems while continuing to grow as a backend engineer.
+
+---
+
+## 💻 Technical Skills
+
+**Languages:** Java (SE, EE), C++, JavaScript, SQL  
+**Frameworks:** Spring Boot, Hibernate, React  
+**Technologies:** Apache Kafka, Redis, WebSockets, Docker  
+**Architecture:** REST APIs, Microservices, Event-Driven Systems  
+**Databases:** MySQL, Oracle, MongoDB  
+**Tools:** Git, GitHub Actions, Postman, Swagger, Maven
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏢 [KhataWeb](https://github.com/ishkasingh/Khata-web)
 **B2B Retail Management Platform**  
-- Deployed in production and used by live businesses
-- Real-time notifications using Kafka & WebSockets
-- Role-based access for secure workflows
-- Redis caching for 10x faster API responses
+Production application currently serving live businesses
+- Built role-based access control system with secure authentication
+- Implemented real-time notifications using Kafka and WebSockets
+- Achieved 10x performance improvement through Redis caching implementation
+- **Tech Stack:** Spring Boot, React, Kafka, Redis, MySQL
 
 ### 💬 [IncognitoCampus](https://github.com/ishkasingh/IncognitoCampus-Backend)
 **Anonymous Campus Chat Platform**  
-- Scalable to 1000+ concurrent users
-- WebSocket-based real-time messaging architecture
+Scalable messaging system supporting 1000+ concurrent users
+- Designed WebSocket-based real-time messaging architecture
+- Implemented efficient connection pooling and message queuing
+- **Tech Stack:** Java, Spring Boot, WebSockets, MySQL
 
 ### 🛒 [Dragon Bite](https://github.com/ishkasingh/Dragon-Bite)
 **Event-Driven E-commerce Platform**  
-- Microservices architecture with asynchronous processing
-- Secure payment integration and order management
+Full-stack application with microservices architecture
+- Developed secure payment integration and order management system
+- Implemented asynchronous processing with event-driven patterns
+- **Tech Stack:** Spring Boot, MongoDB, React, Microservices
 
 ---
 
 ## 💼 Professional Experience
 
-✨ **Technical Lead** | GirlScript Summer of Code 2025  
-- Leading technical mentorship for **50+ open-source contributors**  
-- Establishing **coding standards and architectural best practices**  
-- Code review and technical guidance for **large-scale projects**
+**Technical Lead** 👨‍💼 | GirlScript Summer of Code 2025  
+- Leading technical mentorship for 50+ open-source contributors
+- Establishing coding standards and architectural best practices
+- Conducting code reviews and providing technical guidance for large-scale projects
 
-✨ **Open Source Contributor**  
-- Active contributor focusing on **backend optimization and system architecture**  
-- Developing **reusable components** and improving **application performance**
+**Open Source Contributor** 🌟  
+- Active contributor focusing on backend optimization and system architecture
+- Developing reusable components and improving application performance
+- Contributing to projects with emphasis on scalable system design
 
 ---
 
-## 🧩 Problem Solving & DSA
+## 🧩 Technical Proficiency
 
-- **300+** problems solved across **LeetCode, HackerRank, and GeeksforGeeks**  
-- Strong foundation in **algorithms, data structures, and system design**  
-- Regular practice with **competitive programming and technical interviews**
+- **300+** algorithmic problems solved across LeetCode, HackerRank, and GeeksforGeeks
+- Strong foundation in data structures, algorithms, and system design principles
+- Experience with competitive programming and technical problem-solving
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-ishkasingh-orange)](https://leetcode.com/u/ishkasingh/)
 
@@ -72,10 +76,10 @@ Currently, I am actively seeking **SDE opportunities** where I can contribute to
 
 ## 📜 Certifications
 
-- AWS Academy Cloud Foundations
-- Cisco CCNA Networking
-- Operating Systems (NPTEL, Google)
-- Java Programming & DSA (Infosys, Coursera)
+- **AWS Academy Cloud Foundations** - Cloud Architecture & Services ☁️
+- **Cisco CCNA** - Network Engineering & Infrastructure 🌐
+- **Operating Systems** - NPTEL & Google Certification 💻
+- **Java Programming & DSA** - Infosys Springboard & Coursera ☕
 
 ---
 
@@ -93,19 +97,16 @@ Currently, I am actively seeking **SDE opportunities** where I can contribute to
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Professional Development
 
-✅ **System Design**: Designing scalable, fault-tolerant distributed systems
-
-✅ **Performance Optimization**: Improving application throughput and reducing latency
-
-✅ **Cloud Architecture**: Building cloud-native applications with modern DevOps practices
-
-✅ **Open Source**: Contributing to projects that solve real-world engineering challenges
+- **System Design**: Designing scalable, fault-tolerant distributed systems 🏗️
+- **Performance Optimization**: Improving application throughput and reducing latency ⚡  
+- **Cloud Architecture**: Building cloud-native applications with modern DevOps practices ☁️
+- **Open Source**: Contributing to projects that solve real-world engineering challenges 🌟
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishka_Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ishka-singh-70a558246)
 [![GitHub](https://img.shields.io/badge/GitHub-ishkasingh-black?style=flat-square&logo=github)](https://github.com/ishkasingh)
@@ -114,12 +115,6 @@ Currently, I am actively seeking **SDE opportunities** where I can contribute to
 
 ---
 
-## ⭐ Support My Work
-
-If you find my projects insightful, consider giving them a ⭐️. It helps others discover them and keeps me motivated to build and share impactful solutions.
-
----
-
 <div align="center">
-  <i>“Building scalable systems that solve real problems through clean architecture and efficient engineering.”</i>
+ <i>💡 "Building scalable systems that solve real problems through clean architecture and efficient engineering." 💡</i>
 </div>
