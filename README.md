@@ -1,26 +1,16 @@
-# 👋 Hey there, I’m Ishka! 🚀
+# Hi, I'm Ishka Singh 👋
 
-🔥 **Aspiring Software Development Engineer (SDE)** | Backend & System Design Enthusiast | Building scalable, real-world solutions with **Java, Spring Boot, Kafka, Redis & React**
-
----
-
-## 🚀 About Me
-
-🛠️ I’m passionate about **building scalable backend systems that solve real problems**, with clean architecture and efficient data handling.  
-💡 I love designing **RESTful APIs, microservices, and distributed systems** ready for production scale.  
-⚡ Currently exploring **system performance optimization, fault tolerance, and high-availability architectures**.
+**Software Development Engineer** | Backend Systems & Distributed Architecture Specialist
 
 ---
 
-## 🧠 Current Focus
+## About Me
 
-✅ **Advanced Java & Spring Boot**  
-✅ **System Design & Low-Level Design Patterns**  
-✅ **Kafka, Redis, WebSockets** for real-time scalable architectures  
-🔄 Diving deeper into **CI/CD pipelines, Docker, and cloud deployment practices**
+I'm a software engineer with expertise in building scalable backend systems and distributed architectures. I specialize in Java-based enterprise applications, microservices design, and real-time data processing systems. My focus is on creating robust, production-ready solutions that solve real business problems.
+
+Currently seeking opportunities as a **Backend Software Engineer** where I can contribute to building scalable systems and distributed architectures.
 
 ---
-
 ## 💻 Tech Stack
 
 - **Languages:** Java (SE, EE), C++, JavaScript, SQL  
@@ -29,83 +19,101 @@
 - **Architecture:** REST APIs, Microservices, Event-Driven Systems  
 - **Databases:** MySQL, Oracle, MongoDB  
 - **Tools:** Git, GitHub Actions, Postman, Swagger, Maven
-
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🚀 [KhataWeb](https://github.com/ishkasingh/Khata-web)
-A **B2B retail management platform** enabling dynamic pricing, digital receipts, and sales analytics for live businesses.
+### 🏢 [KhataWeb](https://github.com/ishkasingh/Khata-web)
+**B2B Retail Management Platform** - Production application serving live businesses
+- Built comprehensive role-based access control system
+- Implemented real-time notifications using Kafka and WebSockets
+- Achieved 10x performance improvement through Redis caching
+- **Stack:** Spring Boot, React, Kafka, Redis, MySQL
 
-- Role-based access for secure workflows
-- Real-time notifications using Kafka & WebSockets
-- Redis caching for 10x faster access
-
----
-
-### 💬 [IncognitoCampus](https://github.com/ishkasingh/IncognitoCampus-Backend)
-An **anonymous campus chat platform** supporting 1000+ concurrent users with scalable WebSocket architecture.
-
----
+### 💬 [IncognitoCampus](https://github.com/ishkasingh/IncognitoCampus-Backend) 
+**Scalable Anonymous Chat Platform** - Handles 1000+ concurrent users
+- Designed WebSocket-based real-time messaging architecture
+- Implemented efficient connection pooling and message queuing
+- **Stack:** Java, Spring Boot, WebSockets, MySQL
 
 ### 🛒 [Dragon Bite](https://github.com/ishkasingh/Dragon-Bite)
-A **full-stack e-commerce platform** for organic products with event-driven microservices and secure payment integration.
+**E-commerce Platform** - Event-driven microservices architecture
+- Developed secure payment integration and order management
+- Implemented microservices communication patterns
+- **Stack:** Spring Boot, MongoDB, React, Microservices
 
 ---
 
-## 🏆 Achievements
+## Professional Experience
 
-✅ **300+ DSA problems** solved on LeetCode, HackerRank & GFG for algorithmic proficiency  
-✅ **Technical Lead @ GirlScript Summer of Code 2025** guiding 50+ contributors in clean code practices  
-✅ Active **open-source contributor**, building reusable modules and refining architecture in real projects
+**Technical Lead** | GirlScript Summer of Code 2025  
+- Leading technical mentorship for 50+ open-source contributors
+- Establishing coding standards and architectural best practices
+- Code review and technical guidance for large-scale projects
 
----
-
-## 📜 Certifications
-
-- AWS Academy Cloud Foundations  
-- Cisco CCNA Networking  
-- Operating Systems (NPTEL, Google)  
-- Java Programming & DSA (Infosys, Coursera)
+**Open Source Contributor**  
+- Active contributor focusing on backend optimization and system architecture
+- Developing reusable components and improving application performance
 
 ---
 
-## 📊 GitHub Stats
+## Problem Solving & DSA
 
-![Ishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishkasingh&show_icons=true&theme=react&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishkasingh&layout=compact&theme=react)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ishkasingh&theme=react)
+- **300+** problems solved across LeetCode, HackerRank, and GeeksforGeeks
+- Strong foundation in algorithms, data structures, and system design
+- Regular practice with competitive programming and technical interviews
 
----
-
-## 🎯 Goals I’m Manifesting
-
-✅ Build and scale **production-ready projects**  
-✅ Contribute to impactful open-source initiatives  
-✅ Land a **backend-focused SDE internship/role** with a team that values clean architecture  
-✅ Continue leveling up in **system design and distributed systems**
+[![LeetCode](https://img.shields.io/badge/LeetCode-ishkasingh-orange)](https://leetcode.com/u/ishkasingh/)
 
 ---
 
-## 🎸 Fun Facts
+## Certifications
 
-🎶 Cooking in free time  
-☕ Runs on coffee, system design podcasts, and good problem statements  
-💬 Always up for discussions on system design or clean coding
-
----
-
-## 📫 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/ishka-singh-70a558246)
-- [GitHub](https://github.com/ishkasingh)
-- [LeetCode](https://leetcode.com/u/ishkasingh/)
-- 📧 ishka14singh@gmail.com
+- **AWS Academy Cloud Foundations** - Cloud Architecture & Services
+- **Cisco CCNA** - Network Engineering & Infrastructure  
+- **Operating Systems** - NPTEL & Google Certification
+- **Java Programming & DSA** - Infosys Springboard & Coursera
 
 ---
 
-⭐️ **If you find my projects or learning journey insightful, consider giving a star! It keeps me motivated to build and share solutions that create impact.**
+## GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishkasingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishkasingh&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ishkasingh&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## ⚡ “Code should solve problems, scale with needs, and remain clean enough to grow.”
+## Current Focus
+
+- **System Design**: Designing scalable, fault-tolerant distributed systems
+- **Performance Optimization**: Improving application throughput and reducing latency
+- **Cloud Architecture**: Building cloud-native applications with modern DevOps practices
+- **Open Source**: Contributing to projects that solve real-world engineering challenges
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishka_Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ishka-singh-70a558246)
+[![GitHub](https://img.shields.io/badge/GitHub-ishkasingh-black?style=flat-square&logo=github)](https://github.com/ishkasingh)
+[![Email](https://img.shields.io/badge/Email-ishka14singh@gmail.com-red?style=flat-square&logo=gmail)](mailto:ishka14singh@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ishkasingh-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ishkasingh/)
+
+---
+
+## Support My Work
+
+If you find my projects helpful or interesting, consider giving them a ⭐️ - it helps others discover them too!
+
+---
+
+<div align="center">
+  <i>Building scalable systems that solve real problems through clean architecture and efficient engineering.</i>
+</div>
